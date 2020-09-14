@@ -89,10 +89,10 @@ p{
 
   .line{
     position: relative;
-    height: 580px;
+    height: 600px;
     width: 10px;
     background-color: white;
-    bottom: 410px;
+    bottom: 430px;
     right: 30px;
   }
 
